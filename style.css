@@ -93,7 +93,7 @@ section{
     
     align-items: center;
     gap: 8rem;
-    background: url(Background.jpg) center no-repeat;
+    background: url("img's/Background.jpg") center no-repeat;
     background-size: cover;
     
 
@@ -148,7 +148,7 @@ button:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(background-1.jpg) center  no-repeat;
+    background: url("img's/background-1.jpg") center  no-repeat;
     background-size: cover;
     min-height: 100vh;
 }
